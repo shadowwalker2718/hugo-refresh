@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://www.quant365.com
 languageCode: en-us
 title: Personal website and blog
 theme: hugo-refresh
@@ -68,21 +68,21 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: Julia The White
+    title: Henry Fuheng Wu
     # option to specify the subtitle in the homepage
     subtitle: Personal website and blog
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/images/yi.jpg" # worker.svg 
     # option to specify the width of the image in the homepage
-    imageWidth: 500px
+    imageWidth: 300px
 
   # footer options
   footer:
     # option to specify the logo in the footer
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
-    email: name.surname@domain.com
+    email: i@quant365.com
     # option to specify your linkedin profile in the footer
-    linkedin: https://www.linkedin.com/your_linkedin_profile/
+    linkedin: https://www.linkedin.com/in/henrywoo/
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2019
+    copyright: Henry Fuheng Wu - 2019
