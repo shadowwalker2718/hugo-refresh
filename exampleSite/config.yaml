@@ -1,7 +1,8 @@
 baseURL: https://www.quant365.com
 languageCode: en-us
-title: Personal website and blog
+title: Henry Wu's Web Space
 theme: hugo-refresh
+pluralizelisttitles: false
 
 disableKinds: ["sitemap","RSS"]
 
@@ -31,7 +32,7 @@ params:
   summary:
     # option to specify the default image in the summary list
     defaultImage : "/images/default_summary.jpg"
-  
+
   # loading options
   loading:
     # option to specify the loading image
@@ -40,7 +41,7 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    fontFamily: "Open Sans" 
+    fontFamily: "Open Sans"
 
   # sidebar options
   sidebar:
@@ -53,7 +54,7 @@ params:
   navbar:
     # option to specify the logo of the sidebar
     fontFamily: "Open Sans"
-  
+
   # 404 page options
   pagNotFound:
     # option to specify the main picture of the sidebar
@@ -70,16 +71,16 @@ params:
     # option to specify the title in the homepage
     title: Henry Fuheng Wu
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: 法由我变, 艺为人生
     # option to specify image in the homepage
-    image: "/images/yi.jpg" # worker.svg 
+    image: "/images/yi.jpg" # worker.svg
     # option to specify the width of the image in the homepage
     imageWidth: 300px
 
   # footer options
   footer:
     # option to specify the logo in the footer
-    logo: "/images/refresh-square.svg"
+    logo: "/images/merlion.png"
     # option to specify your contact email in the footer
     email: i@quant365.com
     # option to specify your linkedin profile in the footer

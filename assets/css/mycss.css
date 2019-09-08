@@ -10,8 +10,48 @@
 .summary-summary{
   display: -webkit-box;
   -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;  
+  -webkit-box-orient: vertical;
   overflow: hidden;
   height: 4.5em;
   text-overflow: ellipsis;
 }
+
+pre{
+  background-color: #c3ea85;
+}
+
+.hljs-ln-code {
+  overflow-x: auto;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+
+.section {
+  font-size: 9pt;
+}
+
+.audio_controls {
+  display: -webkit-box;
+  width: 100%;
+  height: 54px;
+  align-content: center;
+  align: center;
+}
+
+/*.column {
+  width: 80%;
+  text-align: center;
+  display: inline-block;
+}
+
+.content {
+  width: inherit;
+  display: inline-block;
+}*/
+
+/*.container {
+  max-width: 80%;
+}*/
